@@ -17,6 +17,7 @@ int main(){
         int x, y;
         cin >> x;
         cin >> y;
+        
         todo.push_back(tuple<int, int>(x, y))
     }
 }
